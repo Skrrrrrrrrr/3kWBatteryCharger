@@ -1,0 +1,1 @@
+"KalmanFilter.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\SYSTEM;..\USER) DEBUG OBJECTEXTEND PRINT(.\Listings\KalmanFilter.lst) OBJECT(..\OBJ\KalmanFilter.obj)

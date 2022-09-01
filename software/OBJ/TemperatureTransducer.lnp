@@ -1,0 +1,5 @@
+"..\OBJ\main.obj",
+"..\OBJ\KalmanFilter.obj",
+"..\OBJ\STARTUP.obj" 
+TO "..\OBJ\TemperatureTransducer" 
+PRINT(".\Listings\TemperatureTransducer.m51") RAMSIZE(256) 
